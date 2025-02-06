@@ -27,7 +27,7 @@ class Car(models.Model):
 
 class CarInventory(models.Model):
     cars_count = models.IntegerField()
-    cars_price = models.DecimalField(max_digits=10, decimal_places=2)
+    cars_price = models.DecimalField(max_digits=10, decimal_places=2, blank=True, null=True)
     created_at = models.DateTimeField(auto_now_add=True)
 
     class Meta:
