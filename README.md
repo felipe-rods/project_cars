@@ -3,7 +3,7 @@
 <p align="center">
  <a href="#technologies">Tecnologias</a> • 
  <a href="#started">Início</a> • 
- <a href="#routes">API Endpoints</a> •
+ <a href="#routes">Endpoints</a> •
  <a href="#contribute">Contribuições</a>
 </p>
 
@@ -214,4 +214,5 @@ git push origin nome-da-branch
 <h3>Licença</h3>
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 
